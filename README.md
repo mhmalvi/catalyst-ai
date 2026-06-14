@@ -1,6 +1,8 @@
 <!-- repo-card -->
 ![catalyst-ai](docs/assets/social-card.png)
 
+![catalyst-ai — architecture](docs/assets/architecture.png)
+
 # Catalyst AI
 
 A comprehensive AI agent builder and management platform that enables teams to create, deploy, and monitor intelligent automation agents through an intuitive dashboard.
